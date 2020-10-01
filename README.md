@@ -1,2 +1,2 @@
 # Computer-Science
-This repository contains a comprehensive collection of CS resources and tutorials on core CS subjects.
+This repository contains a comprehensive collection of resources and tutorials on core CS subjects.
